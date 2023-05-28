@@ -2,13 +2,15 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+theme: anzhiyu
+
 # Site
 title: Hexo
 subtitle: ''
 description: ''
 keywords:
 author: Alcex
-language: zh-CN
+language: en
 timezone: ''
 
 # URL
@@ -97,7 +99,6 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: anzhiyu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
